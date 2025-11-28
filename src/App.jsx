@@ -1,8 +1,8 @@
 import "./App.css";
 import Layout from './Layout/Layout';
-import Hero from './Hero/Hero';
-import Section from './Section/Section';
-import Card from './Card/Card';
+import Hero from './componnets/Hero/Hero';
+import Section from './components/Section/Section';
+import Card from './components/Card/Card';
 
 function App() {
   return (
