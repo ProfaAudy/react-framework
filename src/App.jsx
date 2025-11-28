@@ -1,6 +1,6 @@
 import "./App.css";
 import Layout from './Layout/Layout';
-import Hero from './Hero/Hero';
+import Hero from './Hero/hero';
 import Section from './Section/Section';
 import Card from './Card/Card';
 
